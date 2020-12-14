@@ -1,7 +1,2 @@
-Pecorino ,Country of origin, Italy
-Pecorino ,Family, Pecorino
-Pecorino ,Type, hard
-Pecorino ,Texture," creamy, crumbly, firm and open"
-Pecorino ,Colour, pale yellow
-Pecorino ,Flavour," buttery, mild, nutty"
-Pecorino ,Vegetarian,  no 
+Cheese,Country of origin,Family,Type,Texture,Colour,Flavour,Vegetarian
+Pecorino , Italy, Pecorino, hard," creamy, crumbly, firm and open", pale yellow," buttery, mild, nutty",  no 

@@ -1,12 +1,2 @@
-Vacherin ,Country of origin, France and Switzerland
-Vacherin ,Region, Jura
-Vacherin ,Family, Brie
-Vacherin ,Type," soft, artisan"
-Vacherin ,Fat content, 45-50%
-Vacherin ,Texture, spreadable
-Vacherin ,Rind, washed
-Vacherin ,Colour, pale yellow
-Vacherin ,Flavour, smooth
-Vacherin ,Aroma, rich
-Vacherin ,Vegetarian,  no 
-Vacherin ,Synonyms," Vacherin du Haut-Doubs, Vacherin Mont d'Or, Mont d'Or"
+Cheese,Country of origin,Region,Family,Type,Fat content,Texture,Rind,Colour,Flavour,Aroma,Vegetarian,Synonyms
+Vacherin , France and Switzerland, Jura, Brie," soft, artisan", 45-50%, spreadable, washed, pale yellow, smooth, rich,  no ," Vacherin du Haut-Doubs, Vacherin Mont d'Or, Mont d'Or"

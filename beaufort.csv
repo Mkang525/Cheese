@@ -1,11 +1,8 @@
-Beaufort ,Country of origin, France
-Beaufort ,Region," Savoie, French Alps"
-Beaufort ,Family, Gruyere
-Beaufort ,Type, firm
-Beaufort ,Fat content, 34%
-Beaufort ,Texture, creamy and smooth
-Beaufort ,Colour, pale yellow
-Beaufort ,Flavour, strong
-Beaufort ,Aroma," aromatic, pungent"
-Beaufort ,Vegetarian,  no 
-Beaufort ,Producers, Entremont
+Cheese,Country of origin,Region,Family,Type,Fat content,Texture,Colour,Flavour,Aroma,Vegetarian,Producers
+Beaufort, France," Savoie, French Alps", Gruyere, firm,34%, creamy and smooth, pale yellow, strong," aromatic, pungent",  no , Entremont
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

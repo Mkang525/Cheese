@@ -1,9 +1,2 @@
-Provolone ,Country of origin, Italy
-Provolone ,Region, Po valley region
-Provolone ,Family, Pasta filata
-Provolone ,Type," semi-hard, artisan"
-Provolone ,Texture," firm, grainy and open"
-Provolone ,Rind, waxed
-Provolone ,Colour, pale yellow
-Provolone ,Flavour," buttery, mild, sharp, spicy, sweet, tangy"
-Provolone ,Aroma, pleasant
+Cheese,Country of origin,Region,Family,Type,Texture,Rind,Colour,Flavour,Aroma
+Provolone , Italy, Po valley region, Pasta filata," semi-hard, artisan"," firm, grainy and open", waxed, pale yellow," buttery, mild, sharp, spicy, sweet, tangy", pleasant

@@ -1,9 +1,2 @@
-Fontina ,Country of origin, United States
-Fontina ,Region, Wisconsin
-Fontina ,Type, hard
-Fontina ,Texture, creamy
-Fontina ,Rind, natural
-Fontina ,Colour, ivory
-Fontina ,Flavour," creamy, smooth, tart"
-Fontina ,Aroma," mild, yeasty"
-Fontina ,Producers, Emmi Roth USA
+Cheese,Country of origin,Region,Type,Texture,Rind,Colour,Flavour,Aroma,Producers
+Fontina , United States, Wisconsin, hard, creamy, natural, ivory," creamy, smooth, tart"," mild, yeasty", Emmi Roth USA

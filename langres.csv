@@ -1,11 +1,2 @@
-Taleggio ,Country of origin, France
-Taleggio ,Region, Champagne-Ardenne
-Taleggio ,Type, semi-soft
-Taleggio ,Texture, crumbly and firm
-Taleggio ,Rind, washed
-Taleggio ,Colour, orange
-Taleggio ,Flavour," mild, salty"
-Taleggio ,Aroma, strong
-Taleggio ,Vegetarian,  no 
-Taleggio ,Producers, Rians
-Taleggio ,Synonyms, Tesco Finest Langres 180g
+Cheese,Country of origin,Region,Type,Texture,Rind,Colour,Flavour,Aroma,Vegetarian,Producers,Synonyms
+Langres , France, Champagne-Ardenne, semi-soft, crumbly and firm, washed, orange," mild, salty", strong,  no , Rians, Tesco Finest Langres 180g

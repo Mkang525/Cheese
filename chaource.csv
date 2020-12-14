@@ -1,8 +1,7 @@
-Chaource ,Country of origin, France
-Chaource ,Region, Aube 
-Chaource ,Type," soft, soft-ripened"
-Chaource ,Fat content, 25%
-Chaource ,Texture," creamy, crumbly and soft-ripened"
-Chaource ,Colour, cream
-Chaource ,Flavour," buttery, milky"
-Chaource ,Vegetarian,  no 
+Cheese,Country of origin,Region,Type,Fat content,Texture,Colour,Flavour,Vegetarian
+Chaource , France, Aube ," soft, soft-ripened",25%," creamy, crumbly and soft-ripened", cream," buttery, milky",  no 
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

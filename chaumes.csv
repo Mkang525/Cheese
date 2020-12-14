@@ -1,12 +1,7 @@
-Chaumes ,Country of origin, France
-Chaumes ,Region, St Antoine
-Chaumes ,Type," soft, semi-soft, soft-ripened"
-Chaumes ,Fat content, 50%
-Chaumes ,Texture," creamy, smooth, springy and supple"
-Chaumes ,Rind, washed
-Chaumes ,Colour, pale yellow
-Chaumes ,Flavour," full-flavored, nutty"
-Chaumes ,Aroma," aromatic, strong"
-Chaumes ,Vegetarian,  no 
-Chaumes ,Producers, Savencia Fromage & Dairy
-Chaumes ,Alternative spellings, Chaumes la Crème
+Cheese,Country of origin,Region,Type,Fat content,Texture,Rind,Colour,Flavour,Aroma,Vegetarian,Producers,Alternative spellings
+Chaumes , France, St Antoine," soft, semi-soft, soft-ripened",50%," creamy, smooth, springy and supple", washed, pale yellow," full-flavored, nutty"," aromatic, strong",  no , Savencia Fromage & Dairy, Chaumes la Crème
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

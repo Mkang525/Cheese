@@ -1,8 +1,5 @@
-Fontina ,Country of origin, France
-Fontina ,Region," Côte-d'Or, Époisses"
-Fontina ,Type," soft, smear-ripened"
-Fontina ,Texture," chewy, creamy and firm"
-Fontina ,Rind, washed
-Fontina ,Flavour," salty, spicy, sweet"
-Fontina ,Aroma, pungent
-Fontina ,Producers," Fromagerie Lincet, Jacques Hennart"
+Cheese,Country of origin,Region,Type,Texture,Rind,Flavour,Aroma,Producers
+Epoisses de Bourgogne , France," Côte-d'Or, Époisses"," soft, smear-ripened"," chewy, creamy and firm", washed," salty, spicy, sweet", pungent," Fromagerie Lincet, Jacques Hennart"
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

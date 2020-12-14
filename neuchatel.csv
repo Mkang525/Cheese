@@ -1,12 +1,8 @@
-Neufchatel ,Country of origin, France
-Neufchatel ,Region," Haute-Normandie, Neufchâtel-en-Bray"
-Neufchatel ,Family, Camembert
-Neufchatel ,Type," semi-soft, artisan"
-Neufchatel ,Fat content, 45%
-Neufchatel ,Texture," close, firm, grainy, spreadable and supple"
-Neufchatel ,Rind, bloomy
-Neufchatel ,Colour, white
-Neufchatel ,Flavour," mushroomy, nutty, salty, sharp"
-Neufchatel ,Aroma, yeasty
-Neufchatel ,Vegetarian,  no 
-Neufchatel ,Alternative spellings, Coeur de Neufchatel
+Cheese,Country of origin,Region,Family,Type,Fat content,Texture,Rind,Colour,Flavour,Aroma,Vegetarian,Alternative spellings
+Neufchatel , France," Haute-Normandie, Neufchâtel-en-Bray", Camembert," semi-soft, artisan",45%," close, firm, grainy, spreadable and supple", bloomy, white," mushroomy, nutty, salty, sharp", yeasty,  no , Coeur de Neufchatel
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

@@ -1,11 +1,7 @@
-Taleggio ,Country of origin, Italy
-Taleggio ,Region," Bergamo, Brescia, Como, Cremona, Lecco, Lodi, Milan, Pavia, Treviso, Novara"
-Taleggio ,Type," semi-soft, smear-ripened"
-Taleggio ,Fat content, 48%
-Taleggio ,Texture, creamy
-Taleggio ,Rind, washed
-Taleggio ,Colour, pale yellow
-Taleggio ,Flavour," fruity, mild, tangy"
-Taleggio ,Aroma," pungent, strong"
-Taleggio ,Vegetarian,  no 
-Taleggio ,Synonyms, Taleggio dop di Peghera
+Cheese,Country of origin,Region,Type,Fat content,Texture,Rind,Colour,Flavour,Aroma,Vegetarian,Synonyms
+Taleggio , Italy," Bergamo, Brescia, Como, Cremona, Lecco, Lodi, Milan, Pavia, Treviso, Novara"," semi-soft, smear-ripened",48%, creamy, washed, pale yellow," fruity, mild, tangy"," pungent, strong",  no , Taleggio dop di Peghera
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

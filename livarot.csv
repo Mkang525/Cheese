@@ -1,11 +1,7 @@
-Livarot ,Country of origin, France
-Livarot ,Region," Normandy, Livarot"
-Livarot ,Type," soft, artisan, brined"
-Livarot ,Fat content, 40%
-Livarot ,Texture," creamy, open, smooth and springy"
-Livarot ,Rind, washed
-Livarot ,Colour, straw
-Livarot ,Flavour," citrusy, full-flavored, nutty, spicy"
-Livarot ,Aroma," pungent, strong"
-Livarot ,Vegetarian,  no 
-Livarot ,Synonyms, The Colonel
+Cheese,Country of origin,Region,Type,Fat content,Texture,Rind,Colour,Flavour,Aroma,Vegetarian,Synonyms
+Livarot , France," Normandy, Livarot"," soft, artisan, brined",40%," creamy, open, smooth and springy", washed, straw," citrusy, full-flavored, nutty, spicy"," pungent, strong",  no , The Colonel
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

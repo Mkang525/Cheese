@@ -1,11 +1,2 @@
-Reblochon ,Country of origin, France
-Reblochon ,Region, Haute-Savoie 
-Reblochon ,Type," semi-soft, artisan, smear-ripened"
-Reblochon ,Texture," close, compact, smooth and supple"
-Reblochon ,Rind, washed
-Reblochon ,Colour, ivory
-Reblochon ,Flavour," fruity, mild, nutty"
-Reblochon ,Aroma," earthy, herbal"
-Reblochon ,Vegetarian,  no 
-Reblochon ,Producers, Entremont
-Reblochon ,Alternative spellings, Reblochon Fermier
+Cheese,Country of origin,Region,Type,Texture,Rind,Colour,Flavour,Aroma,Vegetarian,Producers,Alternative spellings
+Reblochon , France, Haute-Savoie ," semi-soft, artisan, smear-ripened"," close, compact, smooth and supple", washed, ivory," fruity, mild, nutty"," earthy, herbal",  no , Entremont, Reblochon Fermier

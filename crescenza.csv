@@ -1,13 +1,8 @@
-Crescenza ,Country of origin, Italy
-Crescenza ,Region,"  Lombardy, Piedmont, and Veneto"
-Crescenza ,Family, Italian Cheese
-Crescenza ,Type," fresh soft, artisan"
-Crescenza ,Fat content, 51%
-Crescenza ,Texture," buttery, creamy and spreadable"
-Crescenza ,Rind, rindless
-Crescenza ,Colour, white
-Crescenza ,Flavour," creamy, mild, sweet"
-Crescenza ,Aroma," pleasant, rich"
-Crescenza ,Vegetarian, yes 
-Crescenza ,Producers, Various
-Crescenza ,Synonyms, Stracchino 
+Cheese,Country of origin,Region,Family,Type,Fat content,Texture,Rind,Colour,Flavour,Aroma,Vegetarian,Producers,Synonyms
+Crescenza , Italy,"  Lombardy, Piedmont, and Veneto", Italian Cheese," fresh soft, artisan",51%," buttery, creamy and spreadable", rindless, white," creamy, mild, sweet"," pleasant, rich", yes , Various, Stracchino 
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

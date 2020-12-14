@@ -1,12 +1,7 @@
-Boursin ,Country of origin, France
-Boursin ,Region, Croisy-sur-Eure
-Boursin ,Type," soft, processed"
-Boursin ,Fat content, 60%
-Boursin ,Texture," creamy, crumbly and spreadable"
-Boursin ,Rind, rindless
-Boursin ,Colour, white
-Boursin ,Flavour," buttery, full-flavored, herbaceous, smooth"
-Boursin ,Aroma," fresh, strong"
-Boursin ,Vegetarian, yes 
-Boursin ,Producers, Boursin Bel UK Ltd
-Boursin ,Synonyms, Gournay cheese
+Cheese,Country of origin,Region,Type,Fat content,Texture,Rind,Colour,Flavour,Aroma,Vegetarian,Producers,Synonyms
+Boursin , France, Croisy-sur-Eure," soft, processed",60%," creamy, crumbly and spreadable", rindless, white," buttery, full-flavored, herbaceous, smooth"," fresh, strong", yes , Boursin Bel UK Ltd, Gournay cheese
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

@@ -1,11 +1,2 @@
-Burrata ,Country of origin, Italy and United States
-Burrata ,Region, Apulia 
-Burrata ,Family, Mozzarella
-Burrata ,Type," fresh soft, artisan"
-Burrata ,Texture, creamy and stringy
-Burrata ,Rind, leaf wrapped
-Burrata ,Colour, white
-Burrata ,Flavour," buttery, milky"
-Burrata ,Aroma," fresh, milky"
-Burrata ,Vegetarian,  no 
-Burrata ,Producers," BelGioioso Cheese Inc., Fiore di Nonno"
+Cheese,Country of origin,Region,Family,Type,Texture,Rind,Colour,Flavour,Aroma,Vegetarian,Producers
+Burrata , Italy and United States, Apulia , Mozzarella," fresh soft, artisan", creamy and stringy, leaf wrapped, white," buttery, milky"," fresh, milky",  no ," BelGioioso Cheese Inc., Fiore di Nonno"

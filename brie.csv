@@ -1,11 +1,2 @@
-Brie ,Country of origin, France
-Brie ,Region, Seine-et-Marne
-Brie ,Family, Brie
-Brie ,Type," soft, artisan, soft-ripened"
-Brie ,Fat content, 8.4 g/100g
-Brie ,Texture," buttery, runny and soft-ripened"
-Brie ,Rind, bloomy
-Brie ,Colour, cream
-Brie ,Flavour," fruity, mild, nutty, tangy"
-Brie ,Aroma," pronounced, strong"
-Brie ,Vegetarian,  no 
+Cheese,Country of origin,Region,Family,Type,Fat content,Texture,Rind,Colour,Flavour,Aroma,Vegetarian
+Brie, France, Seine-et-Marne, Brie," soft, artisan, soft-ripened", 8.4 g/100g," buttery, runny and soft-ripened", bloomy, cream," fruity, mild, nutty, tangy"," pronounced, strong",  no 

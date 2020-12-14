@@ -1,6 +1,2 @@
-Chevre ,Country of origin, France
-Chevre ,Type," soft, semi-soft, hard, firm"
-Chevre ,Texture, firm and soft
-Chevre ,Colour, white
-Chevre ,Flavour," earthy, tangy, tart"
-Chevre ,Synonyms, Goat cheese
+Cheese,Country of origin,Type,Texture,Colour,Flavour,Synonyms
+Chevre , France," soft, semi-soft, hard, firm", firm and soft, white," earthy, tangy, tart", Goat cheese

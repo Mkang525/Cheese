@@ -1,11 +1,7 @@
-Edam ,Country of origin, Holland
-Edam ,Region, Edam
-Edam ,Type, semi-hard
-Edam ,Fat content, 28%
-Edam ,Texture, compact
-Edam ,Rind, waxed
-Edam ,Colour, pale yellow
-Edam ,Flavour," mild, nutty, salty"
-Edam ,Vegetarian,  no 
-Edam ,Producers, FrieslandCampina
-Edam ,Synonyms, Edammer
+Cheese,Country of origin,Region,Type,Fat content,Texture,Rind,Colour,Flavour,Vegetarian,Producers,Synonyms
+Edam , Holland, Edam, semi-hard,28%, compact, waxed, pale yellow," mild, nutty, salty",  no , FrieslandCampina, Edammer
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

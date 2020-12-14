@@ -1,12 +1,7 @@
-Cantal ,Country of origin, France
-Cantal ,Region," Cantal, Auvergne"
-Cantal ,Type," semi-hard, hard, artisan"
-Cantal ,Fat content, 45%
-Cantal ,Texture," brittle, close, compact, crumbly, firm and smooth"
-Cantal ,Rind, natural
-Cantal ,Colour, pale yellow
-Cantal ,Flavour," buttery, milky, nutty, strong, sweet, tangy"
-Cantal ,Aroma," earthy, milky, strong"
-Cantal ,Vegetarian,  no 
-Cantal ,Synonyms," Cantalet, Fourme de Cantal"
-Cantal ,Alternative spellings," Cantal jeune, Cantal Entre-deux, Cantal Vieux, Cantal fremier, Cantal laitier, Cantal AOC"
+Cheese,Country of origin,Region,Type,Fat content,Texture,Rind,Colour,Flavour,Aroma,Vegetarian,Synonyms,Alternative spellings
+Cantal , France," Cantal, Auvergne"," semi-hard, hard, artisan",45%," brittle, close, compact, crumbly, firm and smooth", natural, pale yellow," buttery, milky, nutty, strong, sweet, tangy"," earthy, milky, strong",  no ," Cantalet, Fourme de Cantal"," Cantal jeune, Cantal Entre-deux, Cantal Vieux, Cantal fremier, Cantal laitier, Cantal AOC"
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

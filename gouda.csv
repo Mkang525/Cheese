@@ -1,15 +1,8 @@
-Gouda ,Country of origin, Netherlands
-Gouda ,Region," South Holland, Gouda"
-Gouda ,Family, Gouda
-Gouda ,Type," semi-hard, artisan, brined, processed"
-Gouda ,Fat content (in dry matter), 76%
-Gouda ,Fat content, 31 g/100g
-Gouda ,Calcium content, 958 mg/100g
-Gouda ,Texture," compact, crumbly, dense and springy"
-Gouda ,Rind, waxed
-Gouda ,Colour, yellow
-Gouda ,Flavour," creamy, full-flavored, nutty, sweet"
-Gouda ,Aroma, pungent
-Gouda ,Vegetarian,  no 
-Gouda ,Synonyms," Boerenkass Gouda, Graskaas Gouda, Jong Gouda"
-Gouda ,Alternative spellings, Goudam
+Cheese,Country of origin,Region,Family,Type,Fat content (in dry matter),Fat content,Calcium content,Texture,Rind,Colour,Flavour,Aroma,Vegetarian,Synonyms,Alternative spellings
+Gouda , Netherlands," South Holland, Gouda", Gouda," semi-hard, artisan, brined, processed",76%, 31 g/100g, 958 mg/100g," compact, crumbly, dense and springy", waxed, yellow," creamy, full-flavored, nutty, sweet", pungent,  no ," Boerenkass Gouda, Graskaas Gouda, Jong Gouda", Goudam
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,

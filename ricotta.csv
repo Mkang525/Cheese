@@ -1,12 +1,2 @@
-Fresh Ricotta ,Country of origin, Italy
-Fresh Ricotta ,Family, Cottage
-Fresh Ricotta ,Type," fresh firm, whey"
-Fresh Ricotta ,Fat content, 10.1 g/100g
-Fresh Ricotta ,Texture," creamy, fluffy and grainy"
-Fresh Ricotta ,Rind, rindless
-Fresh Ricotta ,Colour, white
-Fresh Ricotta ,Flavour, sweet
-Fresh Ricotta ,Aroma, fresh
-Fresh Ricotta ,Vegetarian,  no 
-Fresh Ricotta ,Producers," Canaan Cheeses LTD, Fine Italian Foods"
-Fresh Ricotta ,Synonyms," ricotta salata moliterna, ricotta piemontese, ricotta romana"
+Cheese,Country of origin,Family,Type,Fat content,Texture,Rind,Colour,Flavour,Aroma,Vegetarian,Producers,Synonyms
+Fresh Ricotta , Italy, Cottage," fresh firm, whey", 10.1 g/100g," creamy, fluffy and grainy", rindless, white, sweet, fresh,  no ," Canaan Cheeses LTD, Fine Italian Foods"," ricotta salata moliterna, ricotta piemontese, ricotta romana"

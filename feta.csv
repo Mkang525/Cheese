@@ -1,13 +1,8 @@
-Feta ,Country of origin, Greece
-Feta ,Region," Macedonia, Thrace, Thessaly, Central Mainland Greece, the Peloponnese, Lesvos and Island of Kefaloni"
-Feta ,Family, Feta
-Feta ,Type," soft, brined"
-Feta ,Fat content (in dry matter), 16%
-Feta ,Fat content, 21 g/100g
-Feta ,Calcium content, 493 mg/100g
-Feta ,Texture," creamy, crumbly, grainy and open"
-Feta ,Colour, white
-Feta ,Flavour," full-flavored, salty, tangy"
-Feta ,Aroma," nutty, strong"
-Feta ,Vegetarian,  no 
-Feta ,Producers, CHRISTAKIS Greek Cheeses
+Cheese,Country of origin,Region,Family,Type,Fat content (in dry matter),Fat content,Calcium content,Texture,Colour,Flavour,Aroma,Vegetarian,Producers
+Feta , Greece," Macedonia, Thrace, Thessaly, Central Mainland Greece, the Peloponnese, Lesvos and Island of Kefaloni", Feta," soft, brined",16%, 21 g/100g, 493 mg/100g," creamy, crumbly, grainy and open", white," full-flavored, salty, tangy"," nutty, strong",  no , CHRISTAKIS Greek Cheeses
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

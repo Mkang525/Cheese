@@ -1,11 +1,2 @@
-Manchego ,Country of origin, Spain
-Manchego ,Region, La Mancha 
-Manchego ,Type, semi-soft
-Manchego ,Texture, firm and supple
-Manchego ,Rind, waxed
-Manchego ,Colour, pale yellow
-Manchego ,Flavour," fruity, nutty, sweet, tangy"
-Manchego ,Aroma," grassy, pleasant"
-Manchego ,Vegetarian,  no 
-Manchego ,Synonyms, Queso Manchego
-Manchego ,Alternative spellings," Manchego Curado, Manchego Semi Curado, Manchego Viejo "
+Cheese,Country of origin,Region,Type,Texture,Rind,Colour,Flavour,Aroma,Vegetarian,Synonyms,Alternative spellings
+Manchego , Spain, La Mancha , semi-soft, firm and supple, waxed, pale yellow," fruity, nutty, sweet, tangy"," grassy, pleasant",  no , Queso Manchego," Manchego Curado, Manchego Semi Curado, Manchego Viejo "

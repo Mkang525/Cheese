@@ -1,14 +1,2 @@
-Parmesan ,Country of origin, Italy
-Parmesan ,Region," Provinces of Parma, Reggio Emilia, Modena, Bologna , Mantua "
-Parmesan ,Family, Parmesan
-Parmesan ,Type," hard, artisan"
-Parmesan ,Fat content, 25.83  g/100g
-Parmesan ,Calcium content, 1184 mg/100g
-Parmesan ,Texture," crystalline, dense and grainy"
-Parmesan ,Rind, natural
-Parmesan ,Colour, straw
-Parmesan ,Flavour," fruity, nutty, savory, sharp"
-Parmesan ,Aroma, strong
-Parmesan ,Vegetarian,  no 
-Parmesan ,Producers, Various
-Parmesan ,Synonyms, Parmigiano Reggiano
+Cheese,Country of origin,Region,Family,Type,Fat content,Calcium content,Texture,Rind,Colour,Flavour,Aroma,Vegetarian,Producers,Synonyms
+Parmesan , Italy," Provinces of Parma, Reggio Emilia, Modena, Bologna , Mantua ", Parmesan," hard, artisan", 25.83  g/100g, 1184 mg/100g," crystalline, dense and grainy", natural, straw," fruity, nutty, savory, sharp", strong,  no , Various, Parmigiano Reggiano

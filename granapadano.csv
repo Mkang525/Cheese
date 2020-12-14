@@ -1,10 +1,2 @@
-Grana Padano ,Country of origin, Italy
-Grana Padano ,Region, Po River Valley
-Grana Padano ,Family, Parmesan
-Grana Padano ,Fat content, 39-41%
-Grana Padano ,Texture, crumbly and grainy
-Grana Padano ,Rind, natural
-Grana Padano ,Colour, pale yellow
-Grana Padano ,Flavour, fruity
-Grana Padano ,Vegetarian,  no 
-Grana Padano ,Alternative spellings," Grana Padano Riserva, Grana Padano oltre 16 mesi"
+Cheese,Country of origin,Region,Family,Fat content,Texture,Rind,Colour,Flavour,Vegetarian,Alternative spellings
+Grana Padano , Italy, Po River Valley, Parmesan, 39-41%, crumbly and grainy, natural, pale yellow, fruity,  no ," Grana Padano Riserva, Grana Padano oltre 16 mesi"

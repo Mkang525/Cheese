@@ -1,11 +1,8 @@
-Sbrinz ,Country of origin, Switzerland
-Sbrinz ,Region," Lucerne, Schwyz, Unterwald, and Zoug, and the following additional places"
-Sbrinz ,Family, Swiss Cheese
-Sbrinz ,Type," hard, artisan"
-Sbrinz ,Fat content, 45%
-Sbrinz ,Texture, dense and flaky
-Sbrinz ,Rind, natural
-Sbrinz ,Colour, yellow
-Sbrinz ,Flavour," butterscotch, full-flavored, nutty, spicy, strong, tangy"
-Sbrinz ,Aroma," aromatic, spicy"
-Sbrinz ,Vegetarian,  no 
+Cheese,Country of origin,Region,Family,Type,Fat content,Texture,Rind,Colour,Flavour,Aroma,Vegetarian
+Sbrinz , Switzerland," Lucerne, Schwyz, Unterwald, and Zoug, and the following additional places", Swiss Cheese," hard, artisan",45%, dense and flaky, natural, yellow," butterscotch, full-flavored, nutty, spicy, strong, tangy"," aromatic, spicy",  no 
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
